@@ -1,0 +1,21 @@
+{
+	padding: 0px;
+	margin: 0px;
+}
+.contact-from{
+	font-size: 25px;
+	background-color: #000;
+	width: 100vw;
+	height: 50vh;
+}
+
+ .contact-from__h2 {
+	font-size: 2em;
+	font-family: georgia;
+	font-weight: 100;
+	color: white;
+}
+
+p {
+	color: white;
+ }
